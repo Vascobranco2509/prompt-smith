@@ -129,4 +129,8 @@ lento.
 
 ## Licenca
 
-MIT. Ver [LICENSE.md](LICENSE.md). Faz o que quiseres com isto.
+MIT — ver [LICENSE.md](LICENSE.md).
+
+Em portugues simples: **faz o que quiseres com isto.** Usar, copiar, mudar,
+distribuir, vender. A unica condicao e manteres o aviso de direitos de autor.
+Vem sem garantia nenhuma: se correr mal, o problema e teu.

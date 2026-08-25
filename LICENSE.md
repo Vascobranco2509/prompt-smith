@@ -19,19 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## Em portugues, para quem preferir
-
-Traducao livre, sem valor legal. O que vale e o texto ingles acima.
-
-E concedida autorizacao, gratuitamente, a qualquer pessoa que obtenha uma copia
-deste software e dos ficheiros de documentacao associados, para o usar sem
-restricoes - incluindo usar, copiar, modificar, juntar, publicar, distribuir,
-sublicenciar e vender copias - e para permitir que outros o facam, com uma unica
-condicao: o aviso de direitos de autor acima tem de ser incluido em todas as
-copias ou partes substanciais.
-
-O software e fornecido tal como esta, sem garantia nenhuma. Os autores nao sao
-responsaveis por nada que corra mal com ele.
