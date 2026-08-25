@@ -1,4 +1,4 @@
-﻿# Os seis agentes
+# Os seis agentes
 
 Um agente e um ficheiro de texto. Cada bloco vai para `agentes\` com o nome indicado.
 

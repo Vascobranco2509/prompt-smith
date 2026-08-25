@@ -1,4 +1,4 @@
-﻿# 3. Especificacao
+# 3. Especificacao
 
 Isto e o que precisas de saber para **mexer** na aplicacao sem a partir, ou para a
 reconstruir de raiz. Se so a queres usar, este ficheiro nao te faz falta.

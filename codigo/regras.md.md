@@ -1,4 +1,4 @@
-﻿# regras\regras.md
+# regras\regras.md
 
 O ficheiro inteiro esta no bloco abaixo. Grava-o em `regras\regras.md`.
 O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa.

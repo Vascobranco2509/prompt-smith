@@ -1,4 +1,4 @@
-﻿# scripts\aceitacao.ps1
+# scripts\aceitacao.ps1
 
 O ficheiro inteiro esta no bloco abaixo. Grava-o em `scripts\aceitacao.ps1`.
 O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa.

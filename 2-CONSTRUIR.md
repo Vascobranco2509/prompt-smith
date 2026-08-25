@@ -1,4 +1,4 @@
-﻿# 2. Construir
+# 2. Construir
 
 Ha dois caminhos. O primeiro da-te **exactamente** a mesma aplicacao. O segundo
 serve se preferires que o Claude Code construa a partir da especificacao.

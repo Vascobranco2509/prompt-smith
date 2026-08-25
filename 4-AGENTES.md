@@ -1,4 +1,4 @@
-﻿# 4. Os agentes
+# 4. Os agentes
 
 Um agente e **um ficheiro de texto**. Nao ha base de dados, nao ha configuracao
 escondida. Abres, mudas, gravas, e vale na resposta seguinte.

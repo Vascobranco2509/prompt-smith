@@ -1,4 +1,4 @@
-﻿# 1. Instalar
+# 1. Instalar
 
 Uns 10 minutos, quase tudo a descarregar.
 

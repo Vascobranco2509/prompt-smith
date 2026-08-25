@@ -1,4 +1,4 @@
-﻿# prompt-smith
+# prompt-smith
 
 Uma equipa de agentes e um punhado de ferramentas de texto, a correr **no teu
 computador**. Sem contas, sem nuvem, sem mensalidade. Janela Windows, compilada

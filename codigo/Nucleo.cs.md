@@ -1,4 +1,4 @@
-﻿# app\Nucleo.cs
+# app\Nucleo.cs
 
 O ficheiro inteiro esta no bloco abaixo. Grava-o em `app\Nucleo.cs`.
 O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa.

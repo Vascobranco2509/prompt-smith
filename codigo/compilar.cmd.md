@@ -1,4 +1,4 @@
-﻿# app\compilar.cmd
+# app\compilar.cmd
 
 O ficheiro inteiro esta no bloco abaixo. Grava-o em `app\compilar.cmd`.
 O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa.

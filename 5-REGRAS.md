@@ -1,4 +1,4 @@
-﻿# 5. As regras
+# 5. As regras
 
 O `regras\regras.md` muda o comportamento da aplicacao **sem recompilar nada**.
 Editas num editor de texto, gravas, e a resposta seguinte ja usa. Nem sequer e

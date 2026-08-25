@@ -1,4 +1,4 @@
-﻿# 6. Licoes
+# 6. Licoes
 
 O que se aprendeu a tirar trabalho a serio de um modelo de **4 mil milhoes de
 parametros** a correr numa placa grafica de 4 GB. Tudo o que esta aqui foi medido,
