@@ -7,7 +7,7 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
 
 <!-- destino: app\Motor.cs | codificacao: bom -->
 ~~~~csharp
-// Pipelines do prompt-smith. Cada passo e uma chamada com uma so tarefa:
+// Pipelines da forja. Cada passo e uma chamada com uma so tarefa:
 // foi assim que a fiabilidade passou de 1 em 4 para 36 em 36.
 using System;
 using System.Collections.Generic;

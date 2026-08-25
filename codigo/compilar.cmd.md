@@ -8,7 +8,7 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
 <!-- destino: app\compilar.cmd | codificacao: sembom -->
 ~~~~bat
 @echo off
-REM Recria o prompt-smith.exe com o compilador que ja vem no Windows.
+REM Recria o forja.exe com o compilador que ja vem no Windows.
 REM Nao descarrega nada. Duplo clique chega.
 setlocal
 set NET=C:\Windows\Microsoft.NET\Framework64\v4.0.30319
@@ -17,7 +17,7 @@ set WM=C:\Windows\System32\WinMetadata
 if not exist "%NET%\csc.exe" ( echo Nao encontrei o compilador em %NET% & pause & exit /b 1 )
 echo A compilar...
 "%NET%\csc.exe" /nologo /target:winexe /platform:anycpu /optimize+ ^
-  /out:"%~dp0prompt-smith.exe" ^
+  /out:"%~dp0forja.exe" ^
   /resource:"%~dp0janela.xaml",janela.xaml ^
   /reference:"%NET%\System.dll" /reference:"%NET%\System.Core.dll" /reference:"%NET%\System.Xml.dll" ^
   /reference:"%NET%\System.Web.Extensions.dll" /reference:"%NET%\System.Runtime.dll" /reference:"%NET%\System.Xaml.dll" ^
@@ -28,7 +28,7 @@ echo A compilar...
   "%~dp0Nucleo.cs" "%~dp0Motor.cs" "%~dp0Janela.cs"
 if errorlevel 1 ( echo. & echo A compilacao falhou. Le as mensagens acima. & pause & exit /b 1 )
 echo.
-echo Pronto: %~dp0prompt-smith.exe
+echo Pronto: %~dp0forja.exe
 pause
 
 ~~~~

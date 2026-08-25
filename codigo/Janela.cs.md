@@ -7,7 +7,7 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
 
 <!-- destino: app\Janela.cs | codificacao: bom -->
 ~~~~csharp
-// Janela do prompt-smith. O desenho esta em janela.xaml, ao lado do .exe, e pode
+// Janela da forja. O desenho esta em janela.xaml, ao lado do .exe, e pode
 // ser editado sem recompilar. As preferencias e o historico ficam em ficheiros
 // na mesma pasta, para poderes levar tudo contigo.
 using System;
@@ -889,7 +889,7 @@ namespace PromptSmith
             string nome = agenteActivo.Nome;
             if (MessageBox.Show("Arquivar o " + nome + "?" + Environment.NewLine + Environment.NewLine
                 + "O ficheiro vai para a subpasta _arquivo dentro de agentes. Nao e apagado, e podes trazer de volta a mao.",
-                "prompt-smith", MessageBoxButton.YesNo, MessageBoxImage.Question) != MessageBoxResult.Yes) return;
+                "forja", MessageBoxButton.YesNo, MessageBoxImage.Question) != MessageBoxResult.Yes) return;
             string erro;
             if (!agenteActivo.Arquivar(out erro)) { Achar<TextBlock>("Estado").Text = "nao consegui arquivar: " + erro; return; }
             agenteActivo = null;
@@ -1498,7 +1498,7 @@ namespace PromptSmith
         static void LimparRegistos()
         {
             if (registos.Count == 0) return;
-            if (MessageBox.Show("Apagar os " + registos.Count + " registos guardados?", "prompt-smith",
+            if (MessageBox.Show("Apagar os " + registos.Count + " registos guardados?", "forja",
                 MessageBoxButton.YesNo, MessageBoxImage.Question) != MessageBoxResult.Yes) return;
             registos.Clear(); GravarRegistos(); MostrarLista();
             Achar<TextBlock>("Estado").Text = "historico apagado";

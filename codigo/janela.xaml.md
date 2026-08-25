@@ -9,7 +9,7 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
 ~~~~xml
 <Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="prompt-smith" Height="780" Width="1240" MinHeight="620" MinWidth="1000"
+        Title="forja" Height="780" Width="1240" MinHeight="620" MinWidth="1000"
         WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True"
         Background="Transparent" FontFamily="Segoe UI" UseLayoutRounding="True" TextOptions.TextFormattingMode="Ideal">
   <Window.Resources>
@@ -239,7 +239,7 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
       <Grid.RowDefinitions><RowDefinition Height="44"/><RowDefinition Height="*"/></Grid.RowDefinitions>
 
       <Grid x:Name="Barra" Grid.Row="0" Background="Transparent">
-        <TextBlock Text="prompt-smith" Foreground="{DynamicResource Apagado}" FontSize="12.5"
+        <TextBlock Text="forja" Foreground="{DynamicResource Apagado}" FontSize="12.5"
                    VerticalAlignment="Center" Margin="18,0,0,0"/>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
           <Button x:Name="BtTema" Style="{StaticResource Janelinha}" Content="&#xE706;" ToolTip="Tema claro ou escuro"/>
@@ -268,7 +268,7 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
             </Grid.RowDefinitions>
 
             <StackPanel Grid.Row="0">
-              <TextBlock Text="prompt-smith" Foreground="{DynamicResource Texto}" FontSize="19" FontWeight="SemiBold" Margin="6,4,0,2"/>
+              <TextBlock Text="forja" Foreground="{DynamicResource Texto}" FontSize="19" FontWeight="SemiBold" Margin="6,4,0,2"/>
               <TextBlock Text="no teu computador, sem internet" Foreground="{DynamicResource Apagado}" FontSize="11.5" Margin="6,0,0,14"/>
             </StackPanel>
 

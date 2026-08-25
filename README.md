@@ -1,4 +1,4 @@
-# prompt-smith
+# forja
 
 Uma equipa de agentes e um punhado de ferramentas de texto, a correr **no teu
 computador**. Sem contas, sem nuvem, sem mensalidade. Janela Windows, compilada
@@ -14,7 +14,7 @@ deles, em blocos, e sai com um comando. Ver [2-CONSTRUIR.md](2-CONSTRUIR.md).
 
 ```
 +--------------+-------------------------------------+-----------------+
-| prompt-smith |  (*) Investigador       [Claude]     | FICHA DO AGENTE |
+| forja |  (*) Investigador       [Claude]     | FICHA DO AGENTE |
 |              |      Pesquisa de mercado            |                 |
 | A MINHA      +-------------------------------------+ Nome  [_______] |
 | EQUIPA       |                                     | Cargo [_______] |
@@ -98,7 +98,7 @@ lento.
 
 1. [**1-INSTALAR.md**](1-INSTALAR.md) — o Ollama e o modelo. Uns 10 minutos.
 2. [**2-CONSTRUIR.md**](2-CONSTRUIR.md) — tirar o codigo daqui e compilar. Um comando.
-3. Duplo clique no `prompt-smith.exe`.
+3. Duplo clique no `forja.exe`.
 
 ---
 

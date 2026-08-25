@@ -7,7 +7,7 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
 
 <!-- destino: app\Nucleo.cs | codificacao: bom -->
 ~~~~csharp
-// Motor do prompt-smith: regras, Ollama, OCR do Windows e visao.
+// Motor da forja: regras, Ollama, OCR do Windows e visao.
 // Nao tem interface nenhuma. A janela esta em Janela.cs.
 using System;
 using System.Collections.Generic;

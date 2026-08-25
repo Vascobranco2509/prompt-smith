@@ -14,7 +14,7 @@ arvore de ficheiros.
 **Abre o PowerShell na pasta que descarregaste** e cola isto:
 
 ~~~~powershell
-$destino = "$HOME\prompt-smith"
+$destino = "$HOME\forja"
 
 Get-ChildItem ".\codigo" -Filter *.md -File | ForEach-Object {
     $alvo = $null; $bom = $true; $dentro = $false
@@ -44,7 +44,7 @@ Write-Host "Pronto: $destino"
 
 Ficas com isto:
 
-    prompt-smith\
+    forja\
       Modelfile
       app\Nucleo.cs      app\Motor.cs      app\Janela.cs
       app\janela.xaml    app\compilar.cmd
@@ -57,10 +57,10 @@ Ficas com isto:
 O compilador de C# **ja vem no Windows**. Nao instalas nada.
 
 ~~~~
-%USERPROFILE%\prompt-smith\app\compilar.cmd
+%USERPROFILE%\forja\app\compilar.cmd
 ~~~~
 
-Demora uns segundos e escreve `app\prompt-smith.exe`. Duplo clique e esta a andar.
+Demora uns segundos e escreve `app\forja.exe`. Duplo clique e esta a andar.
 
 Se disser que nao encontra o compilador, e porque falta a .NET Framework 4 —
 raro, vem com o Windows desde ha muito. O caminho que ele procura e
@@ -69,7 +69,7 @@ raro, vem com o Windows desde ha muito. O caminho que ele procura e
 ### Confirmar que ficou bem
 
 ~~~~
-powershell -ExecutionPolicy Bypass -File %USERPROFILE%\prompt-smith\scripts\aceitacao.ps1
+powershell -ExecutionPolicy Bypass -File %USERPROFILE%\forja\scripts\aceitacao.ps1
 ~~~~
 
 Tem de dar **18 / 18**. Se der menos, o modelo nao foi criado como deve — volta ao

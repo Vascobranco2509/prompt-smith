@@ -7,7 +7,7 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
 
 <!-- destino: regras\regras.md | codificacao: bom -->
 ~~~~markdown
-# Regras do prompt-smith
+# Regras da forja
 
 Este ficheiro e lido pela aplicacao. Podes edita-lo num editor de texto.
 Nao e preciso recriar o modelo depois de mexer aqui: basta voltar a enviar.

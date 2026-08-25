@@ -1,4 +1,4 @@
-# 1. Instalar
+﻿# 1. Instalar
 
 Uns 10 minutos, quase tudo a descarregar.
 
@@ -46,6 +46,11 @@ funcionar por OCR.
 ---
 
 ## 3. Criar o modelo `prompt-smith`
+
+> **Porque e que o modelo se chama `prompt-smith` e a aplicacao se chama `forja`?**
+> Nao e engano. A aplicacao mudou de nome; o modelo do Ollama manteve o antigo,
+> para nao obrigar quem ja o tinha criado a recria-lo. Onde leres `prompt-smith`
+> daqui para a frente, e sempre o **modelo**, nunca a aplicacao.
 
 O modelo de base sozinho nao chega. O que lhe da o comportamento — a entrevista, a
 estrutura fixa de 5 pontos do diagnostico, os exemplos — esta no `Modelfile`, que

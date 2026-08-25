@@ -7,14 +7,14 @@ O `2-CONSTRUIR.md` traz um comando que faz isto por ti, e pela codificacao certa
 
 <!-- destino: scripts\aceitacao.ps1 | codificacao: bom -->
 ~~~~powershell
-# Teste de aceitacao: corre o prompt-smith como um utilizador o usa e verifica tudo.
+# Teste de aceitacao: corre a forja como um utilizador o usa e verifica tudo.
 # Uso:  .\aceitacao.ps1          (1 ronda)
 #       .\aceitacao.ps1 -Rondas 3
 param([int]$Rondas = 1)
 
 $raiz = Split-Path -Parent $PSScriptRoot
 $psd  = Join-Path $raiz 'bin\psd.cmd'
-$tmp  = Join-Path $env:TEMP 'aceitacao-prompt-smith.txt'
+$tmp  = Join-Path $env:TEMP 'aceitacao-forja.txt'
 'faz-me um resumo deste relatorio de vendas e diz quais sao os produtos que estao a correr mal, quero uma coisa rapida para a reuniao' |
     Out-File $tmp -Encoding utf8
 
