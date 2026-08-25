@@ -1,28 +1,4 @@
-﻿# Licenca MIT
-
-Copyright (c) 2026 Vasco Branco
-
-Por este meio e concedida, gratuitamente, autorizacao a qualquer pessoa que obtenha
-uma copia deste software e dos ficheiros de documentacao associados (o "Software"),
-para negociar o Software sem restricoes, incluindo, sem limitacao, os direitos de
-usar, copiar, modificar, fundir, publicar, distribuir, sublicenciar e/ou vender
-copias do Software, e para permitir que as pessoas a quem o Software e fornecido o
-facam, sujeito as seguintes condicoes:
-
-O aviso de direitos de autor acima e este aviso de autorizacao devem ser incluidos
-em todas as copias ou partes substanciais do Software.
-
-O SOFTWARE E FORNECIDO "TAL COMO ESTA", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
-IMPLICITA, INCLUINDO MAS NAO SE LIMITANDO AS GARANTIAS DE COMERCIALIZACAO,
-ADEQUACAO A UM FIM ESPECIFICO E NAO VIOLACAO. EM NENHUM CASO OS AUTORES OU
-TITULARES DOS DIREITOS DE AUTOR SERAO RESPONSAVEIS POR QUALQUER RECLAMACAO, DANOS
-OU OUTRA RESPONSABILIDADE, SEJA NUMA ACCAO CONTRATUAL, DELITO OU DE OUTRA FORMA,
-DECORRENTE DE, OU EM LIGACAO COM, O SOFTWARE OU O USO OU OUTRAS NEGOCIACOES NO
-SOFTWARE.
-
----
-
-## MIT License
+﻿MIT License
 
 Copyright (c) 2026 Vasco Branco
 
@@ -43,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Em portugues, para quem preferir
+
+Traducao livre, sem valor legal. O que vale e o texto ingles acima.
+
+E concedida autorizacao, gratuitamente, a qualquer pessoa que obtenha uma copia
+deste software e dos ficheiros de documentacao associados, para o usar sem
+restricoes - incluindo usar, copiar, modificar, juntar, publicar, distribuir,
+sublicenciar e vender copias - e para permitir que outros o facam, com uma unica
+condicao: o aviso de direitos de autor acima tem de ser incluido em todas as
+copias ou partes substanciais.
+
+O software e fornecido tal como esta, sem garantia nenhuma. Os autores nao sao
+responsaveis por nada que corra mal com ele.
